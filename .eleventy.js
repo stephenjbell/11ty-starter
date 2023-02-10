@@ -14,7 +14,7 @@ module.exports = function(eleventyConfig) {
 
 
     // Show local network IP addresses for device testing
-    showAllHosts: false,
+    showAllHosts: true,
 
     // Change the default file encoding for reading/serving files
     encoding: "utf-8",
